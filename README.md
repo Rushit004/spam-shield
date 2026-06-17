@@ -14,14 +14,14 @@ A binary text classification project that detects spam SMS/Email messages using 
 benchmarked end-to-end, and **Bernoulli Naive Bayes** was selected as the final model for its
 perfect precision — meaning zero real messages were ever misclassified as spam.
 
-🌐 **[Open Live Demo →](https://spam-shield-app.streamlit.app/)**
+🌐 **[Open Live Demo →](https://sms-spam-shield.streamlit.app/)**
 > ⚠️ Deployment in progress — link will be updated once live on Streamlit Cloud.
 
 ---
 
 ## Live demo
 
-🌐 **[spam-shield-app.streamlit.app](https://spam-shield-app.streamlit.app/)**
+🌐 **[spam-shield-app.streamlit.app](https://sms-spam-shield.streamlit.app/)**
 
 Paste in any SMS or email text and hit **Predict** — no login, no setup, works instantly in the browser.
 
