@@ -15,9 +15,19 @@ from nltk.stem.porter import PorterStemmer
 
 import nltk
 
-nltk.download('punkt')
-nltk.download('punkt_tab')
+def download_nltk():
+    try:
+        nltk.data.find('tokenizers/punkt')
+    except LookupError:
+        nltk.download('punkt')
+        nltk.download('punkt_tab')
 
+    try:
+        nltk.data.find('corpora/stopwords')
+    except LookupError:
+        nltk.download('stopwords')
+
+download_nltk()
 ps = PorterStemmer()
 
 tfidf = pickle.load(open('vectorizer.pkl', 'rb'))
