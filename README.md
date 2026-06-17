@@ -180,6 +180,7 @@ spam-shield/
 ## About the Author
 
 **Rushit Tholiya**
+
 [LinkedIn Profile](https://www.linkedin.com/in/rushit-tholiya-605341311/)
 
 [GitHub Profile](https://github.com/Rushit004)
