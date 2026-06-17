@@ -15,7 +15,7 @@ benchmarked end-to-end, and **Bernoulli Naive Bayes** was selected as the final 
 perfect precision — meaning zero real messages were ever misclassified as spam.
 
 🌐 **[Open Live Demo →](https://sms-spam-shield.streamlit.app/)**
-> ⚠️ Deployment in progress — link will be updated once live on Streamlit Cloud.
+
 
 ---
 
