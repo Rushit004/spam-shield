@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="618e9774-6065-409c-bc99-f2b20c4d05a3" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/sms-spam-classifier.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sms-spam-classifier.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="618e9774-6065-409c-bc99-f2b20c4d05a3" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -136,7 +136,7 @@
       <updated>1781700699637</updated>
       <workItem from="1781700700721" duration="55000" />
       <workItem from="1781702344809" duration="217000" />
-      <workItem from="1781702591992" duration="322000" />
+      <workItem from="1781702591992" duration="1140000" />
     </task>
     <servers />
   </component>
